@@ -28,4 +28,4 @@ In the event that written permission is granted, the user must maintain the abso
 
 * **Phone:** 909-266-6138
 
-(* **e-mail:** marsambear91283@gmail.com )
+(• **e-mail:** marsambear91283@gmail.com )
