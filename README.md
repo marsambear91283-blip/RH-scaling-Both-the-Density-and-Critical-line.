@@ -24,4 +24,8 @@ No individual, group, academic institution, or commercial entity is permitted to
 If you are a professional physicist, mathematician, or researcher seeking to audit, simulate, or build upon this framework, you are strictly required to contact the author directly to state your research intent and receive formal authorization. 
 
 **5. Attribution and Integrity**
-In the event that written permission is granted, the user must maintain the absolute structural integrity of the Triple-Lock protocols and provide full, uncompromised attribution to Michael Anthony Rodriguez and his registered ORCID iD.
+In the event that written permission is granted, the user must maintain the absolute structural integrity of the Triple-Lock protocols and provide full, uncompromised attribution to Michael Anthony Rodriguez and his registered ORCID iD, 
+
+* **Phone:** 909-266-6138
+
+(* **e-mail:** marsambear91283@gmail.com )
