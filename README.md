@@ -1,2 +1,24 @@
 # RH-scaling-Both-the-Density-and-Critical-line.
 Scaling the RH Citical Line with 0.0214 and the Density Line with 0.03 Latencys.
+
+
+
+
+
+
+
+
+### Terms of Use & Intellectual Property Notice
+**Copyright © 2026 Michael Anthony Rodriguez. All Rights Reserved.**
+
+**1. Proprietary Ownership**
+All mathematical frameworks, algorithms, numerical matrices, core constants (including but not limited to the Γ_1001100 identity, the 107.19 spatial anchor, the 454.51 temporal anchor, and the 1.077 anatomy vector), and associated research materials hosted in this repository are the exclusive intellectual property of Michael Anthony Rodriguez (ORCID iD: 0009-0005-1191-5980).
+
+**2. Absolute Restriction on Use and Redistribution**
+No individual, group, academic institution, or commercial entity is permitted to use, duplicate, modify, distribute, publish, or execute this framework for any purpose without obtaining express, written, and signed permission from the author prior to use.
+
+**3. Requesting Permission Protocol**
+If you are a professional physicist, mathematician, or researcher seeking to audit, simulate, or build upon this framework, you are strictly required to contact the author directly to state your research intent and receive formal authorization. 
+
+**4. Attribution and Integrity**
+In the event that written permission is granted, the user must maintain the absolute structural integrity of the Triple-Lock protocols and provide full, uncompromised attribution to Michael Anthony Rodriguez and his registered ORCID iD.
